@@ -1,8 +1,9 @@
 ## Donte' Simmons
 
 I am a offensive security enthusiast focused on penetration testing, red teaming, tool developing, vulnerability and exploit researcher.
-This github is a portfolio of my current skills and will update frequently with new skills and tools that I accumulate.
+This repository is to showcase my current skills and will be updated frequently with new skills and tools that I accumulate.
 I do not have a coding background, so this is my proof of concept for my programming ability.
+At a minimum, I want to be able to read and understand code in each language, even if I’m not actively writing it.
 
 Currently learning programming languages Bash, Python, PowerShell, JavaScript, Node.js, Go, and Rust.
 These languages were chosen because I want to build a solid programming foundation on modern languages to work more efficent and effective.
@@ -17,4 +18,4 @@ Each language serves a specific purpose:
 * **Go** – Building fast, cross-platform enumeration tools, reverse shells, scanners, and stealthy binaries that can evade detection.
 * **Rust** – Developing high-performance, memory-safe security tools, low-level network scanners, and custom payloads for exploitation.
 
-Together these languages will give me the versatility to automate and execute every phase of the penetration testing lifecycle. From reconnaissance and exploitation, to reporting across both Linux and Windows environments.
+Together, these languages will give me the versatility to automate and execute every phase of the penetration testing lifecycle. From reconnaissance and exploitation, to reporting across both Linux and Windows environments.
